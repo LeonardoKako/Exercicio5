@@ -1,0 +1,19 @@
+
+
+#form {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+input, button {
+    height: 30px;
+    margin-top: 10px;
+}
+
+.msg {
+    background: #3ed45c;
+    padding: 16px;
+    color: #fff;
+    display: none;
+}
